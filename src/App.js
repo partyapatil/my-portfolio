@@ -6,7 +6,7 @@ import './App.css';
 import { BrowserRouter as Router } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 import About from "./components/About";
-import Skills from "./components/Skills";
+import Skills from "./components/techStack/index.js";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
