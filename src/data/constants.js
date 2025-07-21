@@ -36,13 +36,8 @@ export const skills = [
       },
    
       {
-        name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
-      },
-      {
-        name: "CSS",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+        name: "Tailwind CSS",
+        image: "https://seeklogo.com/images/T/tailwind-css-logo-89E99D7181-seeklogo.com.png",
       },
       {
         name: "JavaScript",
@@ -79,22 +74,7 @@ export const skills = [
   
     ],
   },
-  {
-    title: "Android",
-    skills: [
-      {
-        name: "Java",
-        image:"https://th.bing.com/th/id/OIP.n8pa_ux7uUyU9CJrzb1scAHaHa?rs=1&pid=ImgDetMain"
 
-      },
-      
-      {
-        name: "Android Studio",
-        image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-      },
-    ],
-  },
   {
     title: "Others",
     skills: [
